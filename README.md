@@ -9,6 +9,18 @@ Stream Deck plugin to monitor and control GitLab.com or self-managed pipelines, 
 - Stream Deck 7.1+
 - Personal Access Token with **api** scope
 
+## Accounts (global)
+
+Tokens are stored once at the plugin level and reused across all actions:
+
+1. On any action, open **Manage accounts…** or choose **Add accounts**.
+2. Fill in **Name**, **Token**, and **Domain** (optional, self-hosted; default `https://gitlab.com`).
+3. On each key, select the account from the **Account** dropdown.
+
+You can keep several accounts (e.g. GitLab.com + self-hosted).
+
+---
+
 ## Actions
 
 ### Pipeline Status
