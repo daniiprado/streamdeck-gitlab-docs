@@ -1,5 +1,7 @@
 # GitLab for Stream Deck
 
+![Thumbnail](Thumbnail.png)
+
 **English** · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [简体中文](README.zh_CN.md) · [繁體中文](README.zh_TW.md)
 
 Stream Deck plugin to monitor and control GitLab.com or self-managed pipelines, show MR/issue counts, open project sections, and copy useful data.
