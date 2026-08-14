@@ -194,3 +194,8 @@ Muestra el nombre del job fallido (`FAILED` + nombre, o `OK` si no hay fallos).
 
 **Configuración:** Account, Project. Título fijo: `CI/CD`.
 
+## Apoyo
+
+☕ **Invítame a un café**  
+Si este plugin te ahorra tiempo, puedes apoyar el desarrollo aquí:  
+https://paypal.me/danielpradom

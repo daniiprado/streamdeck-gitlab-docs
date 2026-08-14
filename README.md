@@ -193,3 +193,9 @@ Shows the failed job name (`FAILED` + name, or `OK` if none failed).
 | **Click** | Opens the project `/-/pipelines` page |
 
 **Settings:** Account, Project. Fixed title: `CI/CD`.
+
+## Support
+
+☕ **Invite me for a coffee**  
+If this plugin saves you time, you can support development here:  
+https://paypal.me/danielpradom

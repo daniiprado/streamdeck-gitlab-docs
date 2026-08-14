@@ -193,3 +193,9 @@ Affiche le nom du job échoué (`FAILED` + nom, ou `OK` s’il n’y en a pas).
 | **Clic** | Ouvre `/-/pipelines` du projet |
 
 **Configuration :** Account, Project. Titre fixe : `CI/CD`.
+
+## Soutien
+
+☕ **Offre-moi un café**  
+Si ce plugin te fait gagner du temps, tu peux soutenir le développement ici :  
+https://paypal.me/danielpradom

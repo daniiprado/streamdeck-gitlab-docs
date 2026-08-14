@@ -193,3 +193,9 @@
 | **點擊** | 開啟專案的 `/-/pipelines` |
 
 **設定：** Account、Project。固定標題：`CI/CD`。
+
+## 支持
+
+☕ **請我喝杯咖啡**  
+如果這個外掛幫你節省了時間，可以在這裡支持開發：  
+https://paypal.me/danielpradom

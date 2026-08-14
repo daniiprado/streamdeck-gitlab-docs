@@ -193,3 +193,9 @@
 | **点击** | 打开项目的 `/-/pipelines` |
 
 **配置：** Account、Project。固定标题：`CI/CD`。
+
+## 支持
+
+☕ **请我喝杯咖啡**  
+如果这个插件帮你节省了时间，可以在这里支持开发：  
+https://paypal.me/danielpradom

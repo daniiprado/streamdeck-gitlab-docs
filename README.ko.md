@@ -194,3 +194,8 @@ GitLab.com 또는 셀프호스팅 파이프라인을 모니터링·제어하고,
 
 **설정:** Account, Project. 고정 제목: `CI/CD`.
 
+## 후원
+
+☕ **커피 한 잔 사주세요**  
+이 플러그인이 시간을 아껴 드렸다면, 여기에서 개발을 후원할 수 있습니다:  
+https://paypal.me/danielpradom
